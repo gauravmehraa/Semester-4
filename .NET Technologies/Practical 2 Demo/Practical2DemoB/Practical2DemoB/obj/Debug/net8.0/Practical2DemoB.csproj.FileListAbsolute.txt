@@ -1,0 +1,14 @@
+D:\MEGA\Semester 4\NET Technologies\Practicals\Practical 2 Demo\Practical2DemoB\Practical2DemoB\bin\Debug\net8.0\Practical2DemoB.exe
+D:\MEGA\Semester 4\NET Technologies\Practicals\Practical 2 Demo\Practical2DemoB\Practical2DemoB\bin\Debug\net8.0\Practical2DemoB.deps.json
+D:\MEGA\Semester 4\NET Technologies\Practicals\Practical 2 Demo\Practical2DemoB\Practical2DemoB\bin\Debug\net8.0\Practical2DemoB.runtimeconfig.json
+D:\MEGA\Semester 4\NET Technologies\Practicals\Practical 2 Demo\Practical2DemoB\Practical2DemoB\bin\Debug\net8.0\Practical2DemoB.dll
+D:\MEGA\Semester 4\NET Technologies\Practicals\Practical 2 Demo\Practical2DemoB\Practical2DemoB\bin\Debug\net8.0\Practical2DemoB.pdb
+D:\MEGA\Semester 4\NET Technologies\Practicals\Practical 2 Demo\Practical2DemoB\Practical2DemoB\obj\Debug\net8.0\Practical2DemoB.GeneratedMSBuildEditorConfig.editorconfig
+D:\MEGA\Semester 4\NET Technologies\Practicals\Practical 2 Demo\Practical2DemoB\Practical2DemoB\obj\Debug\net8.0\Practical2DemoB.AssemblyInfoInputs.cache
+D:\MEGA\Semester 4\NET Technologies\Practicals\Practical 2 Demo\Practical2DemoB\Practical2DemoB\obj\Debug\net8.0\Practical2DemoB.AssemblyInfo.cs
+D:\MEGA\Semester 4\NET Technologies\Practicals\Practical 2 Demo\Practical2DemoB\Practical2DemoB\obj\Debug\net8.0\Practical2DemoB.csproj.CoreCompileInputs.cache
+D:\MEGA\Semester 4\NET Technologies\Practicals\Practical 2 Demo\Practical2DemoB\Practical2DemoB\obj\Debug\net8.0\Practical2DemoB.dll
+D:\MEGA\Semester 4\NET Technologies\Practicals\Practical 2 Demo\Practical2DemoB\Practical2DemoB\obj\Debug\net8.0\refint\Practical2DemoB.dll
+D:\MEGA\Semester 4\NET Technologies\Practicals\Practical 2 Demo\Practical2DemoB\Practical2DemoB\obj\Debug\net8.0\Practical2DemoB.pdb
+D:\MEGA\Semester 4\NET Technologies\Practicals\Practical 2 Demo\Practical2DemoB\Practical2DemoB\obj\Debug\net8.0\Practical2DemoB.genruntimeconfig.cache
+D:\MEGA\Semester 4\NET Technologies\Practicals\Practical 2 Demo\Practical2DemoB\Practical2DemoB\obj\Debug\net8.0\ref\Practical2DemoB.dll

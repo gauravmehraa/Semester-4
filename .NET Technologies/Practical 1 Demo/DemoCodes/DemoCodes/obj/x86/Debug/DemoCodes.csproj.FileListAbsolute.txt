@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\P6 23-01-2023\DemoCodes\DemoCodes\bin\Debug\DemoCodes.exe
+C:\Users\Admin\Desktop\P6 23-01-2023\DemoCodes\DemoCodes\bin\Debug\DemoCodes.pdb
+C:\Users\Admin\Desktop\P6 23-01-2023\DemoCodes\DemoCodes\obj\x86\Debug\DemoCodes.exe
+C:\Users\Admin\Desktop\P6 23-01-2023\DemoCodes\DemoCodes\obj\x86\Debug\DemoCodes.pdb
+C:\Users\gaura\Downloads\pracs\DemoCodes\DemoCodes\bin\Debug\DemoCodes.exe.config
+C:\Users\gaura\Downloads\pracs\DemoCodes\DemoCodes\bin\Debug\DemoCodes.exe
+C:\Users\gaura\Downloads\pracs\DemoCodes\DemoCodes\bin\Debug\DemoCodes.pdb
+C:\Users\gaura\Downloads\pracs\DemoCodes\DemoCodes\obj\x86\Debug\DemoCodes.csproj.AssemblyReference.cache
+C:\Users\gaura\Downloads\pracs\DemoCodes\DemoCodes\obj\x86\Debug\DemoCodes.csproj.CoreCompileInputs.cache
+C:\Users\gaura\Downloads\pracs\DemoCodes\DemoCodes\obj\x86\Debug\DemoCodes.exe
+C:\Users\gaura\Downloads\pracs\DemoCodes\DemoCodes\obj\x86\Debug\DemoCodes.pdb

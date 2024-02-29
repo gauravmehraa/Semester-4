@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\P6 23-01-2023\Prac_1C\Prac_1C\bin\Debug\Prac_1C.exe
+C:\Users\Admin\Desktop\P6 23-01-2023\Prac_1C\Prac_1C\bin\Debug\Prac_1C.pdb
+C:\Users\Admin\Desktop\P6 23-01-2023\Prac_1C\Prac_1C\obj\x86\Debug\Prac_1C.exe
+C:\Users\Admin\Desktop\P6 23-01-2023\Prac_1C\Prac_1C\obj\x86\Debug\Prac_1C.pdb
+C:\Users\gaura\Downloads\pracs\Prac_1C\Prac_1C\bin\Debug\Prac_1C.exe.config
+C:\Users\gaura\Downloads\pracs\Prac_1C\Prac_1C\bin\Debug\Prac_1C.exe
+C:\Users\gaura\Downloads\pracs\Prac_1C\Prac_1C\bin\Debug\Prac_1C.pdb
+C:\Users\gaura\Downloads\pracs\Prac_1C\Prac_1C\obj\x86\Debug\Prac_1C.csproj.AssemblyReference.cache
+C:\Users\gaura\Downloads\pracs\Prac_1C\Prac_1C\obj\x86\Debug\Prac_1C.csproj.CoreCompileInputs.cache
+C:\Users\gaura\Downloads\pracs\Prac_1C\Prac_1C\obj\x86\Debug\Prac_1C.exe
+C:\Users\gaura\Downloads\pracs\Prac_1C\Prac_1C\obj\x86\Debug\Prac_1C.pdb

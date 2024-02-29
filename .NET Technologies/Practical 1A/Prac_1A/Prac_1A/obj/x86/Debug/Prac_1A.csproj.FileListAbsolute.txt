@@ -1,0 +1,14 @@
+C:\Users\gaura\Downloads\pracs\Prac_1A\Prac_1A\obj\x86\Debug\Prac_1A.csproj.AssemblyReference.cache
+C:\Users\gaura\Downloads\pracs\Prac_1A\Prac_1A\obj\x86\Debug\Prac_1A.csproj.CoreCompileInputs.cache
+C:\Users\gaura\Downloads\pracs\Prac_1A\Prac_1A\bin\Debug\Prac_1A.exe.config
+C:\Users\gaura\Downloads\pracs\Prac_1A\Prac_1A\bin\Debug\Prac_1A.exe
+C:\Users\gaura\Downloads\pracs\Prac_1A\Prac_1A\bin\Debug\Prac_1A.pdb
+C:\Users\gaura\Downloads\pracs\Prac_1A\Prac_1A\obj\x86\Debug\Prac_1A.exe
+C:\Users\gaura\Downloads\pracs\Prac_1A\Prac_1A\obj\x86\Debug\Prac_1A.pdb
+D:\MEGA\Semester 4\NET Technologies\Practicals\Practical 1A\Prac_1A\Prac_1A\obj\x86\Debug\Prac_1A.csproj.AssemblyReference.cache
+D:\MEGA\Semester 4\NET Technologies\Practicals\Practical 1A\Prac_1A\Prac_1A\obj\x86\Debug\Prac_1A.csproj.CoreCompileInputs.cache
+D:\MEGA\Semester 4\NET Technologies\Practicals\Practical 1A\Prac_1A\Prac_1A\obj\x86\Debug\Prac_1A.exe
+D:\MEGA\Semester 4\NET Technologies\Practicals\Practical 1A\Prac_1A\Prac_1A\obj\x86\Debug\Prac_1A.pdb
+D:\MEGA\Semester 4\NET Technologies\Practicals\Practical 1A\Prac_1A\Prac_1A\bin\Debug\Prac_1A.exe.config
+D:\MEGA\Semester 4\NET Technologies\Practicals\Practical 1A\Prac_1A\Prac_1A\bin\Debug\Prac_1A.exe
+D:\MEGA\Semester 4\NET Technologies\Practicals\Practical 1A\Prac_1A\Prac_1A\bin\Debug\Prac_1A.pdb
