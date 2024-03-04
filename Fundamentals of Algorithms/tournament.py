@@ -3,7 +3,7 @@ def select(arr):
     opps = {}
     while len(arr) > 1:
         for i in range(len(arr)//2):
-            if arr[i] > arr[i+1]:
+            if arr[i] > arr[i+1]: # arr[i] < arr[i+1]
                 if opps.get(arr[i]):
                     opps[arr[i]].append(arr[i+1])
                 else: 
@@ -19,12 +19,12 @@ def select(arr):
         print(arr)
     
     winner = arr[0]
-    result = float('-inf')
+    result = float('-inf') # float('inf') for smallest
     for opp in opps[winner]:
-        result = max(opp, result)
+        result = max(opp, result) # min(opp, result) for smallest
     return result
 
 
 arr = [5, 10, 2, 19, 13, 11, 18, 6, 4, 17]
 print(arr)
-print(f"2nd smallest element: {select(arr)}")
+print(f"2nd largest element: {select(arr)}")
