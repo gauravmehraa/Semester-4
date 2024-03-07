@@ -1,0 +1,4 @@
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Prac5_6\Prac5_6\bin\Prac5_6.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Prac5_6\Prac5_6\bin\Prac5_6.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Prac5_6\Prac5_6\obj\Debug\Prac5_6.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Prac5_6\Prac5_6\obj\Debug\Prac5_6.pdb
