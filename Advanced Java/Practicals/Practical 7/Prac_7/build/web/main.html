@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Employee Management</title>
+</head>
+<body>
+    <h2>Create Employee</h2>
+    <form action="createUser.jsp" method="post">
+        Employee ID: <input type="text" name="emp_id"><br>
+        First Name: <input type="text" name="first_name"><br>
+        Last Name: <input type="text" name="last_name"><br>
+        <input type="submit" value="Create">
+    </form>
+
+    <h2>Update Employee</h2>
+    <form action="updateUser.jsp" method="post">
+        Employee ID: <input type="text" name="emp_id"><br>
+        First Name: <input type="text" name="first_name"><br>
+        Last Name: <input type="text" name="last_name"><br>
+        <input type="submit" value="Update">
+    </form>
+
+    <h2>Delete Employee</h2>
+    <form action="deleteUser.jsp" method="post">
+        Employee ID: <input type="text" name="emp_id"><br>
+        <input type="submit" value="Delete">
+    </form>
+
+    <h2>Read Employee</h2>
+    <form action="readUser.jsp" method="post">
+        Employee ID: <input type="text" name="emp_id"><br>
+        <input type="submit" value="Read">
+    </form>
+</body>
+</html>

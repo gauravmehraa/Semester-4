@@ -1,0 +1,258 @@
+Fundamentals of Algorithms
+
+Unit 1 - Algorithm Analysis
+Introduction to Algorithms
+Why to do Algorithm Analysis
+Running Time Analysis
+How to Compare Algorithms
+Rate of Growth
+Commonly Used Rates of Growth
+Types of Analysis
+Asymptotic Notation
+Big-O Notation
+Omega Notation
+Theta Notion
+Asymptotic Analysis
+Properties of Notations
+Commonly Used Logarithms and Summations
+Performance Charactersitics of Algorithms
+Master Theorem for Divide and Conquer: Problems and Solutions
+Master Theorem for Subtract and Conquer Recurrences
+
+Unit 2 - Tree, String Matching and Selection Algorithms
+Generic Trees (N-ary trees)
+Threaded Binary Tree
+Binary Search Trees
+Balanced Binary Search Trees
+AVL (Adelson-Velskii and Landis) Trees
+Heapsort
+Introduction to String Matching
+The Naive-String Matching Algorithm
+The Rabin-Karp Algorithm
+String Matching with finite automata
+The Knuth-Morris-Pratt Algorithm
+What are Selection Algorithms?
+Selection by Sorting
+Partition-based Selection Algorithm
+Linear Selection Algorithm
+Median of Medians Algorithm
+Finding the K Smalles Elements in Sorted Order
+
+Unit 3 - Algorithms Design Techniques
+Introduction to Algortihms Design Techniques
+Classification of Algortihms Design Techniques (By Implementation and By Design)
+Introduction to Greedy Algorithms
+Greedy Strategy
+Elements of Greedy Algorithms
+Advantages and Disadvantages of Greedy Method
+Greedy Applications
+Understanding Greedy Technique
+Introduction to Divide and Conquer Algorithms
+What is Divide and Conquer Strategy?
+Divide and Conquer Visualization
+Understanding Divide and Conquer
+Advantages and Disadvantages of Divide and Conquer
+Divide and Conquer Applications
+Introduction to Dynamic Programming
+What is Dynamic Programming Strategy?
+Properties of Dynamic Programming Strategy
+Problems which can be solved using Dynamic Programming - Longest Common Subsequence, Dynamic Programming Approaches
+
+
+Advanced Java
+Unit 1 - GUI using Swing & JDBC
+Need for Swing components
+Difference between AWT and Swing
+Componenets Hierarchy
+Panes
+Jlabel
+JTextField
+JPasswordField
+JTextArea
+JButton
+JCheckBox
+JRadioButton
+JComboBox
+JList
+Introduction to JDBC
+JDBC Architecture
+Types of Drivers
+JDBC Statements
+ResultSet
+Read-Only ResultSet
+Updatable ResultSet
+Forward-Only ResultSet
+Scrollabl ResultSet
+PreparedStatement
+Connection Modes
+SavePoint
+Batch Updations
+CallableStatement
+
+Unit 2 - Web Application Development with Servlet & JSP
+Introduction to Servlets
+HTTP Methods
+Web Server and Web Container
+Servlet Interface
+GenericServlet
+HttpServlet
+Servlet Life Cycle
+ServletConfig
+ServletContext
+Servlet Communication
+Session Tracking Mechanisms
+Introduction to JSP
+JSP LifeCycle
+JSP Implicit Objects and Scopes
+JSP Directives
+JSP Scripting Elements
+JSP Actions (Standard and Customized)
+
+Unit 3 - Java Beans, Struts2 framework & JSON
+Introudction to JavaBeans
+JavaBeans Properties
+Basic MVC Architecture
+Struts2 Framework Features
+Struts2 MVC Pattern
+Request Life Cycle
+Examples
+Configuration Files
+Actions
+Interceptors
+Resuls and Result Types
+Value Stack/OGNL
+JSON Overview
+JSON Syntax
+JSON Data Types
+JSON Objects
+JSON Schema
+Comparison with XML
+JSON with Java
+
+
+Physical Computing and IoT Programming
+Unit 1 - Introduction to Microcontroller, Raspberry Pi
+Characteristics of Microcontroller
+System on Chip: What is System on Chip? Structure of System on Chip
+SoC Products: FPGA, GPU, APU, Compute Units
+ARM 8 Architecture: SoC on ARM 8, Introduction
+Introduction to Raspberry Pi
+Raspberry Pi Hardware
+Preparing Your Raspberry Pi
+Programming Raspberry Pi
+Raspberry Pi and Linux
+About Raspbian
+Configuring Raspberry Pi with Linux Commands
+Introduction to Node.js
+Raspberry Pi Interfaces: UART, GPIO, I2C, SPI
+Useful Implementations: Cross Compilation, Pulse Width Modulaion, SPI for Camera
+
+Unit 2 - M2M to IoT - A Market, M2M and IoT Technology Fundamentals
+Introduction of M2M: A brief background, M2M communicaion, A typical M2M solution overview, Key application areas, Trends in information and communications technologies
+M2M to IoT - A Market Perspective, Information marketplaces, Global value chains, IoT value chains
+M2M to IoT - An Architectural Overview, Building an Architecture
+M2M to IoT Technology Fundamentals - Devices and Gateways, Local and Wide Area Networking, Data Management, M2M and IoT Analytics, Knowledge Management
+Architecture Reference Model - IoT Reference Model, Information Model, Functional Model, Communication Model, Safety, Privacy, Trust, Security Model
+
+Unit 3 - IoT and Protocols, IoT Security and Interoperability
+Introduction to IoT: What is IoT? IoT Examples, Simple IoT LED Program
+IoT and Protocols
+IoT Security: UPnP, CoAP, MQTT, XMPP
+IoT Service as a Platform: Clayster, Thinger.io, SenseIoT, Carriots and NodeRED
+IoT Security and Interoperability: Risks, Modes of Attacks, Tools for Security and Interoperability
+
+
+Android Developer Fundamentals
+Unit 1 - Android, Activities and Intents
+What is Android?
+Obtaining the required tools
+Creating first Android app
+Understanding the components of screen
+Adapting display orientation
+Action bar
+Activities and Intents
+Activity Lifecycle and Saving State
+Basic Views: TextView, Button, ImageButton, EditText, CheckBox, ToggleButton, RadioButton, and RadioGroup Views, ProgressBar View, AutoCompleteTextView, TimePicker View, DatePicker View, ListView View, Spinner View
+
+Unit 2 - User Input Controls
+User Input Controls
+Menus
+Screen Navigation
+RecyclerView
+Drawables
+Themes and Styles
+Material design
+Providing resources for adaptive layouts
+AsyncTask and AsyncTaskLoader
+Connecting to the Internet
+Broadcast receivers
+Services
+Notifications
+Alarm managers
+Transferring data efficiently 
+
+Unit 3 - Data, ContentProviders
+Data - saving, retrieving, and loading: Overview to storing data
+Shared preferences
+SQLite primer
+Store data using SQLite database
+ContentPovider
+Loaders to load and display data
+Permissions
+Performance and Security
+Firebase and AdMob
+Publish your App
+
+
+Linear Algebra with Python
+Unit 1 - Vectors, Linear Equations, Matrices
+Vectors: Introduction, Vector addition and multiplication, Dot-product, Cross Product, The Geometry of Sets of Vectors, Complex Numbers
+Matrices: Matrices as vectors, Dot Product, Matrix Multiplication, Transpose, Inverse, Matrix Transformations, Determinant and its properties
+Linear Equations: Basics, Linear Systems of Equations, Homogenous Systems and otherwise
+
+Unit 2 - Solving Systems of Linear Equations, Vector Spaces, Vector Basis
+Solving Systems of Linear Equations: Solving triangular system of linear equations, Gaussian Elimination, Echelon form, Row Canonical form
+Vector spaces: Vector Spaces, Subspaces, Linear Combinations, Vector Span and Spanning Set, Linear Dependence and Independence
+Vector Basis: Basis and its Dimension & Rank, Change of Basis, Null Space and finding a basis for the null space, The Rank of a Matrix and Applications
+
+Unit 3 - Eigenvalues, Eigenvectors and Diagonalization, Inner Product, Orthogonality
+Eigenvalues, Eigenvectors and Diagonalization: Eigenvalues and Eigenvectors, Existence of eigenvalues, Coordinate representation in terms of eigenvectors
+Diagonalization Inner Product and Outer Product: The inner product for vectors, outer product for vectors
+Orthogonalization: Orthogonality, Projection orthogonal to multiple vectors, Projecting orthogonal to mutually orthogonal vectors
+
+
+.NET Technologies
+Unit 1 - The .NET Framework, C# Language Basics, ASP.NET
+The NET Framework: .NET Languages, Common Language Runtime, .NET Class Library
+C# Language Basics: Comments, Variables and Data Types, Variable Operations, Object-Based Manipulation, Conditional Logic, Loops, Methods, Classes, Value Types and Reference Types, Namespaces and Assemblies, Inheritance, Static Members, Casting Objects, Partial Classes
+ASP.NET - Writing Code - Code-Behind Class, Adding Event Handlers, Anatomy of an ASP.NET Application - ASP.NET File Types, ASP.NET Web Folders
+HTML Server Controls - View State, HTML Control Classes, HTML Control Events, HtmlControl Base Class, HtmlContainerControl Class, HtmlInputControl Class, Page Class, global.asax File
+
+Unit 2 - Web Controls, Validation, Master Pages
+Web Controls: Web Control Classes, WebControl Base Class, List Controls, Table Controls, Web Control Events and AutoPostBack, Page Life Cycle
+State Management: ViewState, Cross-Page Posting, Query String, Cookies, Session State, Configuring Session State, Application State
+Validation: Validation Controls, Server-Side Validation, ClientSide Validation, HTML5 Validation, Manual Validation, Validation with Regular Expressions
+Rich Controls: Calendar Control, AdRotator Control, MultiView Control ASP.NET
+Master Pages: Simple Master Page and Content Page, Connecting Master pages and Content Pages, Master Page with Multiple Content Regions, Master Pages and Relative Paths
+Website Navigation: Site Maps, URL Mapping and Routing, SiteMapPath Control, Tree View Control, Menu Control
+
+Unit 3 - ADO.NET, Working with XML
+ADO.NET: Data Provider Model, Direct Data Access - Creating a Connection, Select Command, DataReader, Disconnected Data Access
+Data Binding: Introduction, Single-Value Data Binding, Repeated-Value Data Binding
+Data Source Controls - SqlDataSource Data Controls: GridView, Details View, Form View
+Working with XML: XML Classes - XMLTextWriter, XMLTextReader Caching: When to Use Caching, Output Caching, Data Caching
+
+
+Software Engineering
+Unit 1 - Introduction, Project Feasability Study
+Introduction: The Nature of Software, Software Engineering, The Software Process, Generic Process Model, The Waterfall Model, Incremental Process Models, Evolutionary Process Models, Concurrent Models, Component-Based Development, The Unified Process Phases
+Project Feasibility Study - Operational, Technical, Economic, Organizational and Cultural feasibility. Defining project costs and project benefits. Cost/Benefit Analysis for a project
+
+Unit 2 - System Analysis, UML
+Investigating System Requirements - Software Requirement Specification Document, Need of SRS, Characteristics & Components of SRS, Stakeholders, Identifying requirements using various techniques (such as Questionnaires, reviewing reports/forms, interviews, workflows etc)
+UML: Basics of UML, Types of UML Diagrams, Use Case Diagram, Class Diagram, Object Diagram, Sequence diagram & Collaboration diagram, State Transition & State chart diagrams UML Activity Diagram, Component Diagram, Package & Deployment Diagram System/Software Design, Architectural Design, Low-Level Design Coupling and Cohesion, Functional-Oriented Versus The Object-Oriented Approach, Design Specifications, Verification for Design, Monitoring and Control for Design
+
+Unit 3 - Software Project Management, Software Measurement and Metrics
+Software Project Management: Estimation in Project Planning Process -Software Scope And Feasibility, Resource Estimation, Empirical Estimation Models - COCOMO II, Project Scheduling Basic Principles, Relationship Between People and Effort, Effort Distribution, Time-Line Charts
+Software Measurement and Metrics: Product Metrics - Measures, Metrics, and Indicators, Function-Based Metrics, Metrics for Object- Oriented Design, Metrics for Source Code, Halstead Metrics Applied to Testing, Metrics for Maintenance, Cyclomatic Complexity, Software Measurement - Size-Oriented, Function-Oriented Metrics, Metrics for Software Quality
+Software Testing: Verification and Validation, Introduction to Testing, Testing Principles, Testing Objectives, Test Oracles, Levels of Testing, White-Box Testing/Structural Testing, Functional/Black-Box Testing, Test Plan, Test-Case Design
