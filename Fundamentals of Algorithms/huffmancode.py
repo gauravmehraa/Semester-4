@@ -38,4 +38,4 @@ def huffmanEncode(string):
 	for (c, f) in frequency:
 		print(c, '\t', huffmanCode[c])
 
-huffmanEncode("sample statement")
+huffmanEncode("aaaaaaaaaaabbbbbbbbbbbbcccccccccccccddddddddddddddeeeeeeeeeeeeeeeeeeeeeeeffffffffffffffffffffffffff")
