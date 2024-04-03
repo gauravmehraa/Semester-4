@@ -12,13 +12,11 @@ class BST:
 		if root.value > newnode.value:
 			if root.left is None:
 				root.left = newnode
-				newnode.parent = root
 			else:
 				self.insert(root.left, newnode)
 		else:
 			if root.right is None:
 				root.right = newnode
-				newnode.parent = root
 			else:
 				self.insert(root.right, newnode)
 	

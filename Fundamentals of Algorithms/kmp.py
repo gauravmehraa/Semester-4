@@ -9,7 +9,7 @@ def kmp(string, pattern, lps):
 			i += 1
 			j += 1
 		else:
-			j = -1 if not lps[j] else lps[j]
+			j = -1 if lps[j] == 0 or j == -1 else lps[j]
 			if string[i] != pattern[j+1]:
 				i += 1
 		if j == len(pattern)-1:

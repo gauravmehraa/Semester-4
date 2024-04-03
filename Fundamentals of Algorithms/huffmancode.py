@@ -7,13 +7,13 @@ class Node:
 		return(self.left, self.right)
 
 
-def huffmanTree(node, isLeft=True, binary=''):
+def huffmanTree(node, binary=''):
 	if type(node) is str:
 		return {node: binary}
 	(l, r) = node.children()
 	d = {}
-	d.update(huffmanTree(l, True, binary + '0'))
-	d.update(huffmanTree(r, False, binary + '1'))
+	d.update(huffmanTree(l, binary + '0'))
+	d.update(huffmanTree(r, binary + '1'))
 	return d
 
 def huffmanEncode(string):
@@ -38,4 +38,4 @@ def huffmanEncode(string):
 	for (c, f) in frequency:
 		print(c, '\t', huffmanCode[c])
 
-huffmanEncode("aaaaaaaaaaabbbbbbbbbbbbcccccccccccccddddddddddddddeeeeeeeeeeeeeeeeeeeeeeeffffffffffffffffffffffffff")
+huffmanEncode("aabbbc")
