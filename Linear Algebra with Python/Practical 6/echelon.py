@@ -5,7 +5,7 @@ def echelon(m):
     for i in range(rows):
         if m[i][i] == 0.0:
             return "Invalid"
-        for j in range(rows):
+        for j in range(i, rows):
             if i != j:
                 factor = m[j][i] / m[i][i]
                 for k in range(cols):
